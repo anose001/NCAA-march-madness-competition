@@ -11,7 +11,7 @@
 
 ### Context of results
 - Lower bound: Coin toss has 50% accuracy (random guess)
-- Our results: ≈68% (averaged)
+- Our results: ≈68%
 - Upper glass sealing: ≈74-78% for sports predictions in general (see **)
                         (NBA ≈ 72-74%)
 - Experts: ≈68%
