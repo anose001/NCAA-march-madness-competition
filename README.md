@@ -10,11 +10,11 @@
 #### + Reducing the number of features can result in better averaged results.
 
 ### Context of results
-- Lower bound: Coin toss 50%
+- Lower bound: Coin toss has 50% accuracy (random guess)
 - Our results: ≈68% (averaged)
-- Upper glass sealing**: ≈74-78% for sports predictions in general
+- Upper glass sealing: ≈74-78% for sports predictions in general (see **)
                         (NBA ≈ 72-74%)
-                        (Experts ≈ 68%)
+- Experts: ≈68%
 
 Room for improvement:
 - Use expert ratings/ranking, elo scoring system, etc…
