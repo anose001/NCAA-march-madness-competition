@@ -20,3 +20,5 @@ Room for improvement:
 - Use expert ratings/ranking, elo scoring system, etc…, for next years march madness competition
 
 **A. Zimmermann, S. Moorthy, Z. Shi, Predicting college basketball match outcomes using machine learning techniques: some results and lessons learned.  [CoRRabs/1310.3607](https://dblp.org/db/journals/corr/corr1310.html), (2013).
+
+[![Number of features versus accuracy of model](https://github.com/anose001/NCAA-march-madness-competition/blob/master/Features_vs_accuracy.png)]
