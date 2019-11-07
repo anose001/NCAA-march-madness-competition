@@ -25,8 +25,11 @@ Room for improvement:
 
 ![Number of features versus accuracy of model](https://github.com/anose001/NCAA-march-madness-competition/blob/master/Features_vs_accuracy.png)
 
+### Correlation of features
 ![Correlation of features](https://github.com/anose001/NCAA-march-madness-competition/blob/master/Feature_Correlation.png)
 
+### Model comparison
 ![Model comparison](https://github.com/anose001/NCAA-march-madness-competition/blob/master/Models_Compared_4_features.png)
 
+### Weight of coefficients
 ![Weight of coefficients](https://github.com/anose001/NCAA-march-madness-competition/blob/master/Coefficient_Weight.png)
