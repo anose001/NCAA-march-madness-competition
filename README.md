@@ -4,20 +4,22 @@
 
 ### Takeaways
 #### + Feature visualization reveals correlations
-#### + Data over the years can be noisy and fluctuate
-#### + Models can perform similarly
+#### + Data over years is noisy and fluctuates
+#### + Different models perform similarly
 #### + Features matter more than models!
-#### + Reducing the number of features can result in better averaged results.
+#### + Reducing the number of features results in better averaged results.
 
 ### Context of results
 - Lower bound: Coin toss has 50% accuracy (random guess)
-- Our results: ≈68%
-- Upper glass sealing: ≈74-78% for sports predictions in general (see **)
+- This works result: ≈ 68% accuracy
+- Upper glass ceiling: ≈ 74-78% for sports predictions in general (see **)
                         (NBA ≈ 72-74%)
-- Experts: ≈68%
+- Experts: ≈ 68% accuracy
 
-Room for improvement:
+Room for improvement for next years 2020 NCAA march madness tournament:
 - Use expert ratings/ranking, elo scoring system, etc…, for next years march madness competition
+- Apply forward/backward feature selection
+- Check for synergy effects and additivity property of features in model
 
 **A. Zimmermann, S. Moorthy, Z. Shi, Predicting college basketball match outcomes using machine learning techniques: some results and lessons learned.  [CoRRabs/1310.3607](https://dblp.org/db/journals/corr/corr1310.html), (2013).
 
