@@ -19,7 +19,7 @@
 Room for improvement for next years 2020 NCAA march madness tournament:
 - Use expert ratings/ranking, elo scoring system, etc…, for next years march madness competition
 - Apply forward/backward feature selection
-- Check for synergy effects and additivity property of features in model
+- Check for synergy effects and additivity property for features in models
 
 **A. Zimmermann, S. Moorthy, Z. Shi, Predicting college basketball match outcomes using machine learning techniques: some results and lessons learned.  [CoRRabs/1310.3607](https://dblp.org/db/journals/corr/corr1310.html), (2013).
 
